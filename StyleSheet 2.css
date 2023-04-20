@@ -1,0 +1,23 @@
+<Style>
+                body {
+                    margin: 0px;
+                    padding:0px;
+                    background-color: aliceblue;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    max-width: 700px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+                p {
+                    color: green;
+                }
+               #Something {
+                    font-family: 'Courier New', Courier, monospace;
+                    color: red;
+
+                }
+                h1 {
+                    color: blueviolet;
+                }
+</Style>

@@ -1,0 +1,22 @@
+<style>
+image {
+     padding: 20px;
+ }
+ #coolBox {
+     color:rgb(196, 76, 76);
+     background-color: lemonchiffon;
+     border-style: solid;
+     border-width: 1px;
+     border-color: blueviolet;
+     border-radius: 5px;
+     font-size: 20pt;
+     margin-left: 40px;
+     margin-right: 40px;
+     padding: 20px;
+ }
+ #menu [
+    list-style-type: :no-button;
+    margin:0;
+    
+ ]
+</style>

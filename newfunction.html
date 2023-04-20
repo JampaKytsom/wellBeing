@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+           // If, Else If, Else
+            
+            function NumberNine(num) {   //camelcase  (placeholder text)
+
+//return the function to a variable before displaying that variable to the screen            
+
+            if(num == 9) {
+                return ("Number equals 9");  //will give that data back
+            }
+            else if(num < 10) {           //function doing different things - else if -> if is the first, else is the last
+                return ("Number is less than 10");
+            }
+            else if (num >= 10) {  //
+                return ("Number is 10 or higher");
+            }
+            else {                        // conditions
+                  return ("error");
+              //console.log out of function
+            }
+        }
+//display the result of th function immediatrly by calling the function and passing the value in directly
+        var result;  // these are using the function
+        result = NumberNine(3);
+        console.log(result)
+
+        console.log(NumberNine(9));
+
+        var num1 = 10
+        console.log(NumberNine(num1));
+
+        function dogYears(age) {
+            return  age  *7
+
+        }
+
+            console.log(dogYears(27))  //using the function
+
+// create a function to take a number and return its square value
+      function squareroot(square) {   // what the fx does goes between curly brackets
+        return square * square   // to work out the square
+      }  
+
+      console.log(squareroot(9))
+
+    var  root = 9
+    var squareroot = squareroot(9);
+       
+
+// create a function that takes a person's name as a string and returns Hello, (name), unless that name is Charles, then return Hello Your Majesty
+      function personsname(name) {   //placeholder text
+        if (name == "harry") {
+        return ("Yikes!");
+        }
+        else {
+        return ("oh no" + name);
+        }
+
+        }
+
+       console.log(personsname("Charles"))
+       console.log(personsname("Ruth"))
+       console.log(personsname("harry"))
+      
+/*console.log(personsname) {
+        
+        var name = Charles
+        console.log(personsname(Kind))*/
+      
+        </script>
+    </body>
+</html>
