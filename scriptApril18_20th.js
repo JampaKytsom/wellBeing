@@ -20,10 +20,12 @@ function checkAnswers() {
         if (answer2 =="100") {
             score = score + 1;
         }
-        alert("Well done, your score ..." + score);
-
-    }
-
+    answer3 = quiz.happy.value;
+        if (answer3 --"100") {
+            score = score +1;
+        }
+         alert("Well done, your score ..." + score);
+}
 
 
 
