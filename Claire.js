@@ -9,7 +9,7 @@ function checkAnswers() {
     //assign "0" to the "score" variable
     var score = 0;
     //assign the quiz elements to the quiz variable
-    quiz = document.forms.QuizDraft2.elements;
+    quiz = document.forms.index.elements;
     //assign the answer to the quation to the answer1 variable
     answer1 = quiz.growth.value;
     //check the answer to the first question 
