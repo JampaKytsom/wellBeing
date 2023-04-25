@@ -20,7 +20,7 @@ function checkAnswers() {
         if (answer2 =="100") {
             score = score + 1;
         }
-     alert("Well done, your score ..." + score);
+     alert("Well done, your score is..." + score);
 }
 
 
