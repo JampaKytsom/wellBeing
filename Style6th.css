@@ -43,7 +43,7 @@ body {
     margin:0;
     padding:0;
     overFlow:hidden;
-    background-color: darksalmon;
+    background-color: blueviolet;
 
  }
 .menu-item   {
@@ -94,7 +94,7 @@ overflow: auto;
 }
 
 .flex-container {
-    background-color:darkgreen ;
+    background-color: blueviolet;
     display: flex;
     flex-direction:row;
     margin-left:5%;
