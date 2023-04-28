@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: aquamarine;
+   /* background-color: aquamarine;*/
+   background-image: radial-gradient(rgb(127, 212, 249) 5%, yellow 15%, rgb(202, 241, 202) 60%);
 }
 */
 
