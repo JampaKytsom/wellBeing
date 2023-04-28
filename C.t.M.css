@@ -1,21 +1,19 @@
-
-/*.headings {
+/*
+.headings {
     color:blueviolet
     
-}*/
-
-body {
-   /* background-color: aquamarine;*/
-   background-image: radial-gradient(rgb(127, 212, 249) 5%, yellow 15%, rgb(202, 241, 202) 60%);
 }
 
+body {
+    background-color: aquamarine;
+}
+*/
 
 image {
     padding: 20px;
      }
 
 body {
-  /* background-color: rgb(190, 243, 213);*/
    background-image: radial-gradient(rgb(127, 212, 249) 5%, yellow 15%, rgb(202, 241, 202) 60%);
    padding-left: 20%;
   /* padding-right: 20%;*/
@@ -85,13 +83,14 @@ body {
 }
 
 .container {
-background-color: palegoldenrod;
+background-color: rgb(170, 203, 121);
 display:flex;
 flex-direction: row;
-padding: 20px;
+padding: 5px;
 padding-top: 5px;
 margin:10px;
 overflow: auto;
+text-emphasis-color: black;
 
 }
 #imageRight {
