@@ -9,11 +9,11 @@ p {font: size 24pt;}
       .nameme {color:blueviolet;}
       .newname {color:black;}
       .oldname {color:antiquewhite;}
-<!-- the fonts size not working at the moment, probably as it is meant for a paragraph-->
+/* the fonts size not working at the moment, probably as it is meant for a paragraph
 
 
 
-            <!-- from Style6th.css
+            <!-- from Style6th.css-->*/
                 
 image {
     padding: 20px;
