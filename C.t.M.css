@@ -15,7 +15,8 @@ image {
      }
 
 body {
-   background-color: rgb(190, 243, 213);
+  /* background-color: rgb(190, 243, 213);*/
+   background-image: radial-gradient(rgb(127, 212, 249) 5%, yellow 15%, rgb(202, 241, 202) 60%);
    padding-left: 20%;
   /* padding-right: 20%;*/
    }
